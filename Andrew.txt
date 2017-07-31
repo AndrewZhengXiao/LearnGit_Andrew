@@ -2,5 +2,6 @@ Git is a distributed version control system
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
+Creating a new brach is quick.
 test1 Andrew add text
 test2 Andrew2 add text2 
