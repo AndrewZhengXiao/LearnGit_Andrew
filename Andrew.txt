@@ -4,5 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new brach is quick.
 Creating a new brach is quick and simple.
+Add new line for no-ff merge.
 test1 Andrew add text
 test2 Andrew2 add text2 
